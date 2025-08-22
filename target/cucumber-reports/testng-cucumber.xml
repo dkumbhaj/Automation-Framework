@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testng-results failed="0" passed="6" skipped="0" total="6">
+    <suite duration-ms="1515" name="io.cucumber.core.plugin.TestNGFormatter">
+        <test duration-ms="1515" name="io.cucumber.core.plugin.TestNGFormatter">
+            <class name="Anagram check">
+                <test-method duration-ms="7" finished-at="2025-08-22T16:13:25.863217600Z" name="Words are anagrams" started-at="2025-08-22T16:13:25.851729900Z" status="PASS"/>
+                <test-method duration-ms="1" finished-at="2025-08-22T16:13:25.876216700Z" name="Words are not anagrams" started-at="2025-08-22T16:13:25.874215100Z" status="PASS"/>
+            </class>
+            <class name="Dictionary validation">
+                <test-method duration-ms="586" finished-at="2025-08-22T16:13:26.470658200Z" name="Valid word check" started-at="2025-08-22T16:13:25.881215500Z" status="PASS"/>
+                <test-method duration-ms="735" finished-at="2025-08-22T16:13:27.212566900Z" name="Invalid word check" started-at="2025-08-22T16:13:26.474657600Z" status="PASS"/>
+            </class>
+            <class name="Palindrome check">
+                <test-method duration-ms="0" finished-at="2025-08-22T16:13:27.220217700Z" name="Palindrome word" started-at="2025-08-22T16:13:27.218218Z" status="PASS"/>
+                <test-method duration-ms="0" finished-at="2025-08-22T16:13:27.225219500Z" name="Non-palindrome word" started-at="2025-08-22T16:13:27.223221600Z" status="PASS"/>
+            </class>
+        </test>
+    </suite>
+</testng-results>

@@ -1,0 +1,4 @@
+Dictionary\StepDefinition\DictionarySteps.class
+Dictionary\StepDefinition\AnagramSteps.class
+Dictionary\Runner\Runner.class
+Dictionary\StepDefinition\PalindromSteps.class
